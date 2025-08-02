@@ -17,7 +17,7 @@ ONCE YOU HAVE HOST
   -> systeminfo
 - tracert -> number of routes to go the host.
 - nslookup -> returns the host ip address.
-- netstat -abon
+- netstat -about the connected networks
   -> -a -> established connections and listening ports .
   -> -b -> program associated with the ports.
   -> -o -> shows the process id.
