@@ -12,6 +12,10 @@ ONCE YOU HAVE HOST
 
 - ssh -> secure shell used to navigate safely through a unsafe network.
 - ipconfig -> gives the ip address, subnet mask, default gateway...subnet mask-> 32 bit seperates ip address to host and netwrok... defaultgateway-> network device acts as a router.
+     -> in ipconfig /all -> you will get physical address/ mac address which will be there even if you switch off your wifi or not. ip keeps on changing whereas physical won't. mac is hardware dependant. 
+      -> Default Gateway -> Like wifi connected to devices it can have multiple i.e. doors to a room
+      -> ping can also be ip address... for eg ping can be -t for indefinite times -n *number* for number of times.
+                                                
 - after ssh
   -> ver -> will tell the os version
   -> systeminfo
