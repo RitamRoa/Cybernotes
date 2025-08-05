@@ -15,11 +15,13 @@ ONCE YOU HAVE HOST
      -> in ipconfig /all -> you will get physical address/ mac address which will be there even if you switch off your wifi or not. ip keeps on changing whereas physical won't. mac is hardware dependant. 
       -> Default Gateway -> Like wifi connected to devices it can have multiple i.e. doors to a room
       -> ping can also be ip address... for eg ping can be -t for indefinite times -n *number* for number of times.
-                                                
+##History: 
+-> ipv4 uses 2^32 as in 32 bits... meaning it has 2^32 ipaddresses
+-> ipv6 uses 2^128 as in 128 bits... meaning it has 2^128 addresses                                              
 - after ssh
   -> ver -> will tell the os version
   -> systeminfo
-- tracert -> number of routes to go the host.
+- tracert -> number of routes to go the host. for windows tracepath also. 
 - nslookup -> returns the host ip address.
 - netstat -about the connected networks
   -> -a -> established connections and listening ports .
