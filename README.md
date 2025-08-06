@@ -18,4 +18,3 @@ Welcome to my Cybersecurity Notes repository! This collection of notes is design
 
 This repository is a personal project aimed at enhancing my understanding of cybersecurity concepts and tools. By organizing my notes in this manner, I can easily refer back to important information, track my progress, and reinforce my learning. Each markdown file serves as a resource for quick reference and deeper understanding of the topics covered.
 
-Feel free to explore the folders and files as I continue to expand my knowledge in cybersecurity!
